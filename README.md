@@ -13,7 +13,7 @@ see [commits](https://github.com/prjkt-nv404/UDP-Custom-Installer-Manager/commit
 
 ---
 
-# Supported OS
+# Supported OS 
 - ubuntu 20.04 [x86_64] ✅ _(recommended)_
 - [arm] ❌
 
