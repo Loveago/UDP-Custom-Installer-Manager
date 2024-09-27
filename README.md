@@ -13,7 +13,7 @@ see [commits](https://github.com/prjkt-nv404/UDP-Custom-Installer-Manager/commit
 
 ---
 
-# Supported OS
+# Supported OS 
 - ubuntu 20.04 [x86_64] ✅ _(recommended)_
 - [arm] ❌
 
@@ -22,7 +22,7 @@ see [commits](https://github.com/prjkt-nv404/UDP-Custom-Installer-Manager/commit
 sudo -s
 ``` 
 ```
-wget "https://raw.githubusercontent.com/Loveago/UDP-Custom-Installer-Manager/main/install.sh" -O install.sh && chmod +x install.sh && ./install.sh
+wget "https://raw.githubusercontent.com/maddix123/UDP-Custom/main/install.sh" -O install.sh && chmod +x install.sh && ./install.sh
 ```
 
 
